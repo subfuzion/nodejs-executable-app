@@ -1,5 +1,7 @@
 # nodejs-executable-app
 
+[Blog post](https://codesnip.sh/posts/building-standalone-nodejs-executables)
+
 Build single executable applications for Node.js.
 
 This repo demonstrates how to use the new Node.js API to create an executable
